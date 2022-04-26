@@ -1,4 +1,4 @@
-                                                 ### Hi there 👋, I'm Rafi Samnan
+   ### Hi there 👋, I'm Rafi Samnan
   Web developer 
 
 - 🔭 I’m currently working on Javascript
