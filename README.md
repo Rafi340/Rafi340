@@ -1,11 +1,10 @@
    ### Hi there 👋, I'm Rafi Samnan
-  Web developer 
+  Software Engineer 
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on Redux-Typescript and .Net Framework
 - 🌱 I’m currently learning Data Mining
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about HTML,CSS,Bootstrap,Javascript,React,Python etc.
+- 👯 I’m looking to collaborate on React-Redux, Javascript, Typescript and .Net Framework
+- 💬 Ask me about HTML,CSS,Bootstrap,Javascript,Typescript,React-Redux,Python etc.
 - 📫 How to reach me: rafisamnan340@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
