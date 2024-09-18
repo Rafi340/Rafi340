@@ -10,5 +10,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi340&layout=compact&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafi340&theme=default)
 
+![Badge for Project](https://img.shields.io/badge/Project-Tour%20Management-blue)
+![Badge for DevOps Learning](https://img.shields.io/badge/Learning-DevOps-brightgreen)
+
+
 
 
