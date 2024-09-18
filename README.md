@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on React-Redux, Javascript, Typescript and .Net Framework
 - 🌱 I’m currently learning Data Mining
 - 👯 I’m looking to collaborate on React-Redux, Javascript, Typescript and .Net Framework
-- 💬 Ask me about HTML,CSS,Bootstrap,Javascript,Typescript,React-Redux,Python etc.
 - 📫 How to reach me: rafisamnan340@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafi340&show_icons=true&count_private=true&theme=default)
