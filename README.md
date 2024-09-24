@@ -9,7 +9,7 @@
 
 
 
-- 💬 Ask me about **.Net 8, C#, React, Nextjs, Javascript, Typescript, Nodejs**
+- 💬 Ask me about **.Net 8, C#, Nextjs, Javascript, Typescript, Nodejs**
 
 - 📫 How to reach me **rafisamnan340@gmail.com**
 
