@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, This is Rafi Samnan</h1>
-<h3 align="center">A passionate [Software Engineer, e.g., Full Stack Developer] from Bangladesh</h3>
+<h3 align="center">A passionate [Software Engineer] from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi340&label=Profile%20views&color=0e75b6&style=flat" alt="rafi340" /> </p>
 
 - 🔭 I’m currently working on **School Management**
 
-- 🌱 I’m currently learning **Devops and AI**
+- 🌱 I’m currently learning **DevOps and AI**
 
 
 
