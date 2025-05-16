@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps and AI**
 
-- 💬 Ask me about **.NET 9, C#, Nextjs, Javascript, Typescript, Nodejs**
+- 💬 Ask me about **.NET 9, C#, React, Nextjs, Javascript, Typescript, Nodejs**
 
 - 📫 How to reach me **rafisamnan340@gmail.com**
 
